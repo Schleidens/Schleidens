@@ -11,7 +11,7 @@
 
 <br>
 
-### Keep in touch 😊
+### Keep in touch with me 😊
 <a href="https://twitter.com/alectineschlei">
 <img src="https://img.shields.io/twitter/follow/Alectineschlei?color=blue&label=follow&logo=twitter&logoColor=white&style=for-the-badge" />
 </a>
