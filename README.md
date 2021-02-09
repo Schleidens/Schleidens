@@ -8,3 +8,8 @@
 
 - 🔭 I’m currently working on Nuxtlover
 - 🌱 I’m currently learning ReactJS && node/express
+
+<br>
+
+### Keep in touch 😊
+![](https://img.shields.io/twitter/follow/Alectineschlei?color=blue&label=follow&logo=twitter&logoColor=white&style=for-the-badge)
