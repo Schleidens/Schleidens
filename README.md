@@ -12,4 +12,4 @@
 <br>
 
 ### Keep in touch 😊
-![](https://img.shields.io/twitter/follow/Alectineschlei?color=blue&label=follow&logo=twitter&logoColor=white&style=for-the-badge)
+![https://twitter.com/Alectineschlei](https://img.shields.io/twitter/follow/Alectineschlei?color=blue&label=follow&logo=twitter&logoColor=white&style=for-the-badge)
