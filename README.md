@@ -9,10 +9,10 @@
   ## About me &#128513;
   <p>
   <b>
-  I am Schleidens a lover of technology &#128525; passionate about front end development I master and I work on my projects with vue / Nuxt, a front framework that I really like.
+  I am Schleidens a lover of technology &#128525; passionate about front end development, I master and I work on my projects with Vue/Nuxt a front framework that I really like.
   I also work with reactjs and try to have a minimum XP with other front frameworks like Svelte.
 I also do mobile development with flutter, Ionic (especially with ionic-vue), I have backend knowledge with ruby have rails and node js (woohh fullstack JS&#128526;).
-  i like to learn new techniques and update myself. i also like to contribute in open source projects
+  i like to learn new technology and update myself. i also like to contribute in open source projects
 
   >PS: I don't really like to say that I'm a fullstack developer because I really like working with data but I don't like managing it too much (lmaooo&#128517;).
 
