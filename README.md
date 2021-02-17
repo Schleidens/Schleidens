@@ -2,6 +2,10 @@
 
 
 **Enthusiast web developer** 
+<br>
+<br>
+<img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+<br>
 
 
   <img align="center" alt="Schleidens" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
@@ -37,4 +41,7 @@ I also do mobile development with flutter, Ionic (especially with ionic-vue), I 
 </a>
 <a href="https://facebook.com/elhermano.dejesus">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://dev.to/schleidens">
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
 </a>
