@@ -13,9 +13,8 @@
   ## About me &#128513;
   <p>
   <b>
-  I am Schleidens a lover of technology &#128525; passionate about front end development, I master and I work on my projects with Vue/Nuxt a front framework that I really like.
-  I also work with reactjs and try to have a minimum XP with other front frameworks like Svelte.
-I also do mobile development with flutter, Ionic (especially with ionic-vue), I have backend knowledge with ruby on rails and node js (woohh fullstack JS&#128526;).
+  I am Schleidens a lover of technology &#128525; passionate about front end development, I work on my projects with Vue/Nuxt a front framework that I really like.
+  I'm currently learning reactjs and nodejs (woohh fullstack JS&#128526;).
   i like to learn new technology and update myself. i also like to contribute in open source projects
 
   >PS: I don't really like to say that I'm a fullstack developer because I really like working with data but I don't like managing it too much (lmaooo&#128517;).
@@ -30,7 +29,7 @@ I also do mobile development with flutter, Ionic (especially with ionic-vue), I 
 <br>
 
 ## Keep in touch with me 😊
-<a href="https://twitter.com/alectineschlei">
+<a href="https://twitter.com/schleidens_dev">
 <img src="https://img.shields.io/twitter/follow/Alectineschlei?color=blue&label=follow&logo=twitter&logoColor=white&style=for-the-badge" />
 </a>
 <a href="https://instagram.com/schleidens.dev">
