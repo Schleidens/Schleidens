@@ -30,7 +30,7 @@
 
 ## Keep in touch with me 😊
 <a href="https://twitter.com/schleidens_dev">
-<img src="https://img.shields.io/twitter/follow/Alectineschlei?color=blue&label=follow&logo=twitter&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/twitter/follow/Schleidens_dev?color=blue&label=follow&logo=twitter&logoColor=white&style=for-the-badge" />
 </a>
 <a href="https://instagram.com/schleidens.dev">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
