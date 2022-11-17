@@ -17,7 +17,6 @@
   I'm currently learning reactjs and nodejs (woohh fullstack JS&#128526;).
   i like to learn new technology and update myself. i also like to contribute in open source projects
 
-  >PS: I don't really like to say that I'm a fullstack developer because I really like working with data but I don't like managing it too much (lmaooo&#128517;).
 
   working with you is already a pleasure for me &#128519;
   </b>
