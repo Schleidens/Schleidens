@@ -14,16 +14,16 @@
   <p>
   <b>
   I am Schleidens a lover of technology &#128525; passionate about front end development, I work on my projects with Vue/Nuxt a front framework that I really like.
-  I'm currently learning reactjs and nodejs (woohh fullstack JS&#128526;).
-  i like to learn new technology and update myself. i also like to contribute in open source projects
+  I'm currently learning reactjs and nodejs (wooaaahh fullstack JS &#128526;).
+  i like to learn new technology and update myself. i also like to contribute in open sources projects
 
 
   working with you is already a pleasure for me &#128519;
   </b>
   </p>
 
-- 🔭 I’m currently working on Nuxtlover
-- 🌱 I’m currently learning ReactJS && node/express
+- 🔭 I’m currently Hacking with ReactJs/NodeJs/Express/TS
+- 🌱 I’m currently learning ReactJS && Node/express && TS
 
 <br>
 
