@@ -46,3 +46,10 @@
 <a href="https://discord.gg/fAuyjtSR">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
+
+<br />
+<br />
+
+## StreakStats 🚀
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Schleidens&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
