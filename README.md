@@ -10,20 +10,39 @@
 
   <img align="center" alt="Schleidens" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
   
-  ## About me &#128513;
+  ## About me :alien:
   <p>
   <b>
-  I am Schleidens a lover of technology &#128525; passionate about front end development, I work on my projects with Vue/Nuxt a front framework that I really like.
-  I'm currently learning reactjs and nodejs (wooaaahh fullstack JS &#128526;).
-  i like to learn new technology and update myself. i also like to contribute in open sources projects
-
-
-  working with you is already a pleasure for me &#128519;
+  I'm Schleidens a self-taught, enthusiasm fullstack web developer with more focus on frontend.
   </b>
-  </p>
+  <br />
+  I'm passionate in learning new stuffs about coding/programming/science. When i'm not coding i enjoy playing video games :video_game:
+    </p>
+    
+    
+  ## My Stack :wrench:
+  
+  - I like working with Nuxtjs/Vuejs, my go to frontend framework :heart_eyes:.
+  - ReactJs ?? Yes, Vite/React / Gatsby :relaxed:
+  - NodeJs/Express/MongoDB :peach:
+  - Headless CMS "I like Jamstack" :ghost: 
+  
+  <br />
 
-- 🔭 I’m currently Hacking with ReactJs/NodeJs/Express/TS
-- 🌱 I’m currently learning ReactJS && Node/express && TS
+### Status...
+
+- 🔭 _I’m currently Hacking with ReactJs/NodeJs/Express/TS_
+
+  </b>
+  
+  <br />
+  
+<p>
+  <b>
+   :speech_balloon: Looking for someone to join your team &#128519; check me on <a href="https://linkedin.com/in/alectineschleidens">Linkedin</a> or <a href="https://twitter.com/schleidens_dev">Twitter</a>
+  </b>
+</p>
+
 
 <br>
 
