@@ -8,7 +8,7 @@
 <br>
 
 
-  <img align="center" alt="Schleidens" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+  <img align="center" width="400px" height="auto" alt="Schleidens" src="https://user-images.githubusercontent.com/53914451/204916071-0da9ded0-128b-4764-b768-8c67672c5f84.jpg" />
   
   ## About me :alien:
   <p>
