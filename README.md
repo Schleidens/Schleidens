@@ -39,14 +39,14 @@
   
 <p>
   <b>
-   :speech_balloon: Looking for someone to join your team &#128519; check me on <a href="https://linkedin.com/in/alectineschleidens">Linkedin</a> or <a href="https://twitter.com/schleidens_dev">Twitter</a>
+   :speech_balloon: Looking for someone to join your team &#128519; reach me on <a href="https://linkedin.com/in/alectineschleidens">Linkedin</a> or <a href="https://twitter.com/schleidens_dev">Twitter</a>
   </b>
 </p>
 
 
 <br>
 
-## Keep in touch with me 😊
+## Stay in touch with me 😊
 <a href="https://twitter.com/schleidens_dev">
 <img src="https://img.shields.io/twitter/follow/Schleidens_dev?color=blue&label=follow&logo=twitter&logoColor=white&style=for-the-badge" />
 </a>
