@@ -32,6 +32,7 @@
 ### Status...
 
 - 🔭 _I’m currently Hacking with ReactJs/NodeJs/Express/TS_
+- ⚡ _build things with Gohugo_
 
   </b>
   
