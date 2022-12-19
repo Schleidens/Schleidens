@@ -13,10 +13,10 @@
   ## About me :alien:
   <p>
   <b>
-  I'm Schleidens a self-taught, enthusiasm fullstack web developer with more focus on frontend.
+  I am Schleidens a self-taught, enthusiastic full stack web developer with more focus on the front-end.
   </b>
   <br />
-  I'm passionate in learning new stuffs about coding/programming/science. When i'm not coding i enjoy playing video games :video_game:
+I'm passionate in learning new stuffs about coding/programming/science. When I don't code, I like to play video games. :video_game:
     </p>
     
     
