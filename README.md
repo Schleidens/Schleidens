@@ -31,6 +31,7 @@ I'm passionate in learning new stuffs about coding/programming/science. When I d
 
 ### Status...
 
+- 👀 _I'm currently available for work, and looking for Full-Time Remote Opportunities._
 - 🔭 _I’m currently Hacking with ReactJs/NodeJs/Express/TS_
 - ⚡ _build things with Gohugo_
 
