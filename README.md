@@ -13,11 +13,11 @@
   ## About me :alien:
   <p>
   <b>
-  I am Schleidens a self-taught, enthusiastic full stack web developer with more focus on the front-end.
+  I am a self-taught fullstack web developer with a passion for creating dynamic and engaging web experiences. My interest in programming began as a hobby and quickly turned into a career. I am constantly learning and expanding my skill set to stay up-to-date with the latest industry trends and best practices.
   </b>
   <br />
-I'm passionate in learning new stuffs about coding/programming/science. When I don't code, I like to play video games. :video_game:
-    </p>
+  <i style="color:blue">I like contribute to open source projects and I am open to new collaborations and opportunities</i>
+  </p>
     
     
   ## My Stack :wrench:
