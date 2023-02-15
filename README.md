@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Schleidens
+# Hi there 👋 I'm [Schleidens](https://schleidens.netlify.app/)
 
 
 **Enthusiast Frontend web developer** 
@@ -23,7 +23,7 @@
   ## My Stack :wrench:
   
   - I like working with Nuxtjs/Vuejs, my go to frontend framework :heart_eyes:.
-  - ReactJs ?? Yes, Vite/React / Gatsby :relaxed:
+  - ReactJs / Next.Js / Vite/React / Gatsby / react-typescript :relaxed:
   - NodeJs/Express/MongoDB :peach:
   - Headless CMS "I like Jamstack" :ghost: 
   
@@ -32,8 +32,8 @@
 ### Status...
 
 - 👀 _I'm currently available for work, and looking for Full-Time Remote Opportunities._
-- 🔭 _I’m currently Hacking with ReactJs/NodeJs/Express/TS_
-- ⚡ _build things with Gohugo_
+- 🔭 _I’m currently Hacking with Vuejs/ReactJs/NodeJs/Express/TS_
+- ⚡ _learning python django_
 
   </b>
   
