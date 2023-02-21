@@ -33,7 +33,7 @@
 
 - 👀 _I'm currently available for work, and looking for Full-Time Remote Opportunities._
 - 🔭 _I’m currently Hacking with Vuejs/ReactJs/NodeJs/Express/TS_
-- ⚡ _learning python django_
+- ⚡ _I'm currently learning backend development with python/Django_
 
   </b>
   
