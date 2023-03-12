@@ -25,6 +25,7 @@
   - I like working with Nuxtjs/Vuejs, my go to frontend framework :heart_eyes:.
   - ReactJs / Next.Js / Vite/React / Gatsby / react-typescript :relaxed:
   - NodeJs/Express/MongoDB :peach:
+  - Python/Django, Django rest :snake:
   - Headless CMS "I like Jamstack" :ghost: 
   
   <br />
