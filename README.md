@@ -23,7 +23,8 @@
   ## My Stack :wrench:
   
   - I like working with Nuxtjs/Vuejs, my go to frontend framework :heart_eyes:.
-  - ReactJs / Next.Js / Vite/React / Gatsby / react-typescript :relaxed:
+  - ReactJs / Next.Js / Gatsby / Typescript :relaxed:
+  - Tailwind CSS / SCSS 🤡
   - NodeJs/Express/MongoDB :peach:
   - Python/Django, Django rest :snake:
   - Headless CMS "I like Jamstack" :ghost: 
