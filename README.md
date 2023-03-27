@@ -69,6 +69,9 @@
 <a href="https://discord.gg/fAuyjtSR">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
+<a href="https://bitbucket.org/schleidens">
+  <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white"/>
+</a>
 <a href="https://www.showwcase.com/schleidens">
   SHOWWWCASE
 </a>
