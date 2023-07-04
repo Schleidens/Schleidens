@@ -8,7 +8,7 @@
 /> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=yellow" /> <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" /> <br>
 
 
-  <img align="center" width="400px" height="auto" alt="Schleidens" src="https://user-images.githubusercontent.com/53914451/204916071-0da9ded0-128b-4764-b768-8c67672c5f84.jpg" />
+  <img align="center" width="100%" height="auto" alt="Schleidens" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy-downsized.gif" />
   
   ## About me :alien:
   <p>
