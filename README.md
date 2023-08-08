@@ -13,7 +13,7 @@
   ## About me :alien:
   <p>
   <b>
-  I am a self-taught fullstack web developer with a passion for creating dynamic and engaging web experiences. My interest in programming began as a hobby and quickly turned into a career. I am constantly learning and expanding my skill set to stay up-to-date with the latest industry trends and best practices.
+  I'm an experienced Full Stack Software Developer with 4+ years of expertise, driven by a deep passion for creating and delivering cutting-edge web solutions. My journey in the realm of technology is fueled by a relentless curiosity and a constant desire to push boundaries. With a strong foundation in both front-end and back-end development, I thrive in bringing ideas to life through elegant code and intuitive design.
   </b>
   <br />
   <i style="color:blue">I like contribute to open source projects and I am open to new collaborations and opportunities</i>
