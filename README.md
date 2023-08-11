@@ -13,7 +13,7 @@
   ## About me :alien:
   <p>
   <b>
-  I'm an experienced Full Stack Software Developer with 4+ years of expertise, driven by a deep passion for creating and delivering cutting-edge web solutions. My journey in the realm of technology is fueled by a relentless curiosity and a constant desire to push boundaries. With a strong foundation in both front-end and back-end development, I thrive in bringing ideas to life through elegant code and intuitive design.
+  I'm an experienced Full Stack Software Developer with 5+ years of experience, driven by a deep passion for creating and delivering cutting-edge web solutions. My journey in the realm of technology is fueled by a relentless curiosity and a constant desire to push boundaries. With a strong foundation in both front-end and back-end development, I thrive in bringing ideas to life through elegant code and intuitive design.
   </b>
   <br />
   <i style="color:blue">I like contribute to open source projects and I am open to new collaborations and opportunities</i>
