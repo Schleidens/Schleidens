@@ -45,7 +45,7 @@
   
 <p>
   <b>
-   :speech_balloon: Looking for someone to join your team &#128519; reach me on <a href="https://linkedin.com/in/alectineschleidens">Linkedin</a> or <a href="https://twitter.com/schleidens_dev">Twitter</a>
+   :speech_balloon: Looking for someone to join your team &#128519; reach me on <a href="https://linkedin.com/in/alectineschleidens">Linkedin</a> or <a href="https://twitter.com/schleidens_dev">Twitter/X</a>
   </b>
 </p>
 
@@ -54,7 +54,7 @@
 
 ## Stay in touch with me 😊
 <a href="https://twitter.com/schleidens_dev">
-<img src="https://img.shields.io/twitter/follow/Schleidens_dev?color=blue&label=follow&logo=twitter&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 <a href="https://instagram.com/schleidens.dev">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
