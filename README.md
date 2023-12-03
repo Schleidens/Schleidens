@@ -35,8 +35,8 @@
 
 - 👀 _I'm currently available for work, and looking for Full-Time Remote Opportunities._
 - 🚀 _I’m currently working on a chrome Extension
-- 🔭 _I’m currently Hacking with Python/Django/DRF | Vuejs/ReactJs/TS | Node/Express_
-- ⚡ _I'm currently learning Firebase_
+- 🔭 _I’m currently Hacking with Python/Django/DRF | Vuejs/ReactJs/TS | Firebase_
+- ⚡ _I'm currently learning NestJs/Prisma_
 - 🎙 _Speaking in twitter spaces about programming, opensource and other tech related stuffs_
 
   </b>
