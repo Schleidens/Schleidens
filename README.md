@@ -27,6 +27,7 @@
   - Tailwind CSS / SCSS 🤡
   - NodeJs/Express/MongoDB :peach:
   - Python/Django, Django rest :snake:
+  - Firebase / Supabase ⚡
   - Headless CMS "I like Jamstack" :ghost: 
   
   <br />
