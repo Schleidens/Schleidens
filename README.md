@@ -37,7 +37,7 @@
 - 👀 _I'm currently available for work, and looking for Full-Time Remote Opportunities._
 - 🚀 _I’m currently working on a Social App_
 - 🔭 _I’m currently Hacking with Node/Express/typescript | Vuejs/ReactJs/TS | Firebase_
-- ⚡ _I'm currently learning NestJs/Prisma_
+- ⚡ _I'm currently learning flutter_
 - 🎙 _Speaking in twitter spaces about programming, opensource and other tech related stuffs_
 
   </b>
