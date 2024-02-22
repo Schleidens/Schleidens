@@ -35,7 +35,7 @@
 ### Status...
 
 - 👀 _I'm currently available for work, and looking for Full-Time Remote Opportunities._
-- 🚀 _I’m currently working on a Social App_
+- 🚀 _I’m currently working on a [SuperBlaBlaland](https://www.superblablaland.com/)_
 - 🔭 _I’m currently Hacking with Node/Express/typescript | Vuejs/ReactJs/TS | Firebase_
 - ⚡ _I'm currently learning flutter_
 - 🎙 _Speaking in twitter spaces about programming, opensource and other tech related stuffs_
