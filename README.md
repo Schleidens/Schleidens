@@ -22,7 +22,7 @@
     
   ## My Stack :wrench:
   
-  - I like working with Nuxtjs/Vuejs, my go to frontend framework :heart_eyes:.
+  - I like working with Nuxtjs/Vuejs :heart_eyes:
   - ReactJs / Next.Js / Gatsby / Typescript :relaxed:
   - Tailwind CSS / SCSS 🤡
   - NodeJs/Express/MongoDB :peach:
