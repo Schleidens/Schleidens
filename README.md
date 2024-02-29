@@ -25,7 +25,7 @@
   - I like working with Nuxtjs/Vuejs :heart_eyes:
   - ReactJs / Next.Js / Gatsby / Typescript :relaxed:
   - Tailwind CSS / SCSS 🤡
-  - NodeJs/Express/MongoDB :peach:
+  - NodeJs/Express/PostgreSQL/Prisma/Typeorm :peach:
   - Python/Django, Django rest :snake:
   - Firebase / Supabase ⚡
   - Headless CMS "I like Jamstack" :ghost: 
