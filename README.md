@@ -22,8 +22,8 @@
     
   ## My Stack :wrench:
   
-  - I like working with Nuxtjs/Vuejs :heart_eyes:
   - ReactJs / Next.Js / Typescript / Signal :relaxed:
+  - Nuxtjs / Vuejs / Typescript / Pinia :heart_eyes:
   - Tailwind CSS / SCSS 🤡
   - NodeJs/Express/PostgreSQL/Prisma/Typeorm :peach:
   - Python/Django, Django rest :snake:
