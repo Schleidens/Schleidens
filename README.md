@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Schleidens](https://schleidens.netlify.app/)
+# Hi there 👋 I'm [Schleidens](https://www.schleidens.dev/)
 
 
 **Enthusiast full-stack web developer** 
