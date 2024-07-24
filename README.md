@@ -26,7 +26,7 @@
   - Nuxtjs / Vuejs / Typescript / Pinia :heart_eyes:
   - Tailwind CSS / SCSS 🤡
   - NodeJs/Express/PostgreSQL/Prisma/Typeorm :peach:
-  - Python/Django, Django rest :snake:
+  - Python/Django, DjangoRestFramework :snake:
   - Firebase / Supabase ⚡
   - Headless CMS "I like Jamstack" :ghost: 
   
