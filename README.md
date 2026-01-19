@@ -34,8 +34,6 @@
 
 ### Status...
 
-- 👀 _I'm currently available for work, and looking for Full-Time Remote Opportunities._
-- 🚀 _I’m currently working on a [GSGC](http://goodsportgolf.com/)_
 - 🔭 _I’m currently Hacking with Node/Express/typescript/Prisma | ReactJs/NextJs/TS | Vue/Nuxt | Firebase_
 - ⚡ _I'm currently learning GameDev_
 - 🎙 _Speaking in twitter spaces about programming, opensource and other tech related stuffs_
@@ -43,12 +41,6 @@
   </b>
   
   <br />
-  
-<p>
-  <b>
-   :speech_balloon: Looking for someone to join your team &#128519; reach me on <a href="https://linkedin.com/in/alectineschleidens">Linkedin</a> or <a href="https://twitter.com/schleidens_dev">Twitter/X</a>
-  </b>
-</p>
 
 
 <br>
